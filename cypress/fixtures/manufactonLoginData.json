@@ -1,0 +1,6 @@
+{
+    "validEmail": "qa@lakshmi.comp",
+    "validPassword":"12345678",
+    "invalidemail":"qa@lak.comp",
+    "invalidpassword": "123456"
+}
